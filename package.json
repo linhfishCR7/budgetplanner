@@ -1,0 +1,23 @@
+{
+  "name": "com.lehau.budgetplanner",
+  "displayName": "Budget Planner",
+  "version": "1.0.0",
+  "description": "Comprehensive budget planning with spending categories, savings goals, and financial insights",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "ecosystem:cordova"
+  ],
+  "author": "LinhFish Development Team",
+  "license": "Apache-2.0",
+  "devDependencies": {
+    "cordova-android": "^14.0.1"
+  },
+  "cordova": {
+    "platforms": [
+      "android"
+    ]
+  }
+}
